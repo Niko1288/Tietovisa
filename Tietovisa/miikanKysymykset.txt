@@ -1,0 +1,36 @@
+//Syötä kysymykset ja vastaukset alla olevan rivin muodossa. Oikea vastaus tulee pilkun jälkeen uudelleen
+//Päättyykö kysymys kysymysmerkkiin? tietysti, ei ikinä, joskus : joskus
+
+Mikä on meduusa? simpukka, kasvi, joku muu, joku muu
+Onko olio luokka? on, ei ole, voi olla, ei ole
+Milloin on joulu? jouluna, pääsiäisenä, maanantaina, jouluna
+
+Onnistuuko tämä? ei onnistu, toivotaan, tietysti, tietysti
+7*3+8? 20 ,30,29,29
+34+66?88 , 90 , 100, 100
+9*5? 45,55 , 50,45
+8+8? 15 , 16 ,17,16
+
+1+5? 6, 7, 10,6
+2+5? 7 , 9 , 11, 7
+8+1? 9 , 10 , 12, 9
+9-7+5? 15 , 13 , 7, 7
+8+3? 3 ,5 ,11,11
+5+5+5? 10 ,15 ,20, 15
+
+Mikä on paras munkki? Omar-munkki , Tunkki-Munkki, Hunkki-Munkki, Hunkki-Munkki
+Mikä on paras auto?  Jakuaari , Volvo ,SuperAuto, Jakuaari
+Kuka voitti kaiken? Sinä,  Minä ,Tinä, Sinä
+
+Kuka tietää kaiken?  Se yks tyyppi, Se toinen tyyppi ,Ei kukaan, Ei kukaan
+Missä on Suomi?  Euroopassa , Venäjällä , Ruotsissa, Euroopassa
+
+Mikä on eläin on kissa?  Kissa,  Koira, Seepra, Kissa
+
+Kuka on Pressa? Donald Trump , Salee se Niinistö, Halonen, Salee se Niinistö
+
+Mikä on kauhein?  Kauhu, HashMap , HashMap se on, HashMap
+
+Viis plus kuus? 11 , NullPointerException , ArithmeticException, ArithmeticException
+
+Kuka on kuuluisa taiteilija?  Juhani Kuusi , Juhani Koivu, Juhani Palmu, Juhani Palmu

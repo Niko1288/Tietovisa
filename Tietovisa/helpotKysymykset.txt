@@ -1,0 +1,32 @@
+Mikä seuraavista luokista on oikein nimetty?
+c) FilesReader
+b) false
+a) Files Reader
+d) 3Files
+
+Mikä on sopiva tyyppi muuttujalle, jos käsiteltävät luvut ovat satoja miljoonia?
+long
+
+Mikä näistä kelpaa muuttujan tyypiksi?
+b) boolean
+a) let
+c) var
+d) const
+
+Minkä nimisessä tiedostossa määritellään julkinen luokka Tuote?
+d) Tuote.java
+b) Tuote.class
+a) tuote.class
+c) Tuote.Tuote
+
+Binääriluku 101101 on sama kuin luku
+a) 45
+b) 101
+c) 42
+d) 89
+
+Työnantajasi syksyllä on
+d) Academic Work
+a) Accenture
+b) Accenture Academy
+c) Academic Accenture
